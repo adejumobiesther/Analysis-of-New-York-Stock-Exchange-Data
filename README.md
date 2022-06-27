@@ -1,5 +1,5 @@
 # Analysis-of-New-York-stock-exchange-data
-This project analyses New-York-stock-exchange-data through the following processes:
-- calculating summary statistics
-- calculating business metrics and using models to forecast future growth prospects for the companies.
-- dashboard for Profit and Loss statement
+This project uses Excel as a major tool for analysis, a detailed analysis of New York's stock exchange data was done through the following processes:
+- Calculation and the Interpretation of the measures of central tendency and spread
+- Calculation of business metrics and the use of models to forecast future growth prospects for the companies.
+- A dashboard for Profit and Loss statement for the companies
